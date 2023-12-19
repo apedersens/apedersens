@@ -5,13 +5,13 @@ I'm Alise Pedersen, a passionate Big Data and Business Analytics master's studen
 ## 🚀 About Me
 
 
-- 🌱 I’m currently learning: Machine learning, big data strategy
+- 🌱 I’m currently learning: Machine Learning, Big Data Strategy
 - 💬 Ask me about: Tennis and Travel.
 
 ## 🔧 Skills & Tools
 
 - Programming Languages: SQL, Python
-- Tools & Software: DBeaver, MYSQL, UTM, Dataiku
+- Tools & Software: DBeaver, MYSQL, UTM, Dataiku, Nifi, Hadoop, Kafka 
 
 ## 🌐 Connect with Me
 
